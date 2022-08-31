@@ -13,6 +13,7 @@
   "private": true,
   "dependencies": {
     "boxen": "^7.0.0",
+    "chalk": "^5.0.1",
     "prompts": "^2.4.2",
     "puppeteer": "^17.0.0"
   }
