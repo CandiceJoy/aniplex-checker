@@ -1,0 +1,19 @@
+{
+  "name": "aniplex-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "prompts": "^2.4.2",
+    "puppeteer": "^17.0.0"
+  }
+}
